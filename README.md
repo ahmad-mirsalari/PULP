@@ -438,7 +438,7 @@ In this talk, Dr. Francesco Conti discusses An Open Source Flow for DNNs on Ultr
    
 [PULP DSP](https://github.com/pulp-platform/pulp-dsp) provides optimized functions for digital signal processing, such as dot product, matrix multiplication, convolution, fast Fourier transform, etc., for various data types (8-, 16-, 32-bit integer and fixed-point, and single-precision floating-point). The optimized implementations exploit the SIMD instructions, hardware loop, parallel cluster, etc. It has been tested on Mr. Wolf, featuring Ibex and CV32E40P cores and pulp-open. It can also be run on GWT GAP8 featuring CV32E40P cores. For more details, please visit the [repository](https://github.com/pulp-platform/pulp-dsp) and refer to the [documentation](https://pulp-platform.github.io/pulp-dsp/), where you can also find a [documentation](https://pulp-platform.github.io/pulp-dsp/tutorial-index/) on how to use the library and advice on how to optimize codes on PULP.
 
-2.8.3. <a name="Dronet"></a>**[PULP-DroNet](<https://github.com/pulp-platform/pulp-dronet/tree/master/pulp-dronet-v2>))**
+2.8.3. <a name="Dronet"></a>**[PULP-DroNet](<https://github.com/pulp-platform/pulp-dronet/tree/master/pulp-dronet-v2>)**
 
 **PULP-DroNet** is a deep learning-powered *visual navigation engine* that enables autonomous navigation of a pocket-size quadrotor in a previously unseen environment. Thanks to PULP-DroNet, the nano-drone can explore the environment, avoiding collisions with dynamic obstacles, in complete autonomy -- **no human operator, no ad-hoc external signals, and no remote laptop!** This means all complex computations are quickly done directly aboard the vehicle. The visual navigation engine is composed of both software and hardware part.
 
