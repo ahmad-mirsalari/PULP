@@ -1,5 +1,5 @@
-
-# **Table of Contents**
+# This repository is actively maintained and will be regularly updated with new content, improvements, and contributions.
+ **Table of Contents**
 1. [RISC-V](#risc_v)
    
 3. [PULP](#pulp)
