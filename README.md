@@ -189,7 +189,7 @@ The PULP project uses several types of interconnects to enable communication bet
 
 More information is available here.
 <p align="center">
-  <a href="https://youtu.be/Ipy71G8eSWY?t=1268">
+  <a href="https://youtu.be/Ipy71G8eSWY?t=1177">
     <img src="http://img.youtube.com/vi/Ipy71G8eSWY/0.jpg" alt="Video Thumbnail">
   </a>
 </p>
