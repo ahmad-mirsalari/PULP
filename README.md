@@ -10,9 +10,9 @@
    
    2.3. [Interconnects](#Interconnects)
 
-   2.4. [Platforms](#Platforms)
+   2.4. [Platforms](#platforms)
 
-      2.4.1. [Single core](#Single)
+      2.4.1. [Single core](#single)
 
       2.4.2. [Multi-core (Cluster-based)](#Multi-core)
 
@@ -194,11 +194,11 @@ More information is available here.
   </a>
 </p>
 
-2.4. <a name="Platforms"></a>**Platforms**
+2.4. <a name="platforms"></a>**Platforms**
 
 We can divide PULP platforms into three categories:
 
-2.4.1  <a name="Single"></a>**Single core**
+2.4.1  <a name="single"></a>**Single core**
 
 The simplest PULP-based systems are micro-controllers that can be configured to use any 32-bit RISC-V cores they have developed (RI5CY, Zero-riscy, Micro-riscy) to add memory and some peripherals, according to [Figure 3](#singlecore). Advanced versions also allow Accelerators to be added to the system.
 
